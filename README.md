@@ -45,7 +45,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[curved thorns](https://lekstm.github.io/sketches/sketch_210518d_curved_thorns/index.html) and ![Image](src)
+[curved thorns](https://lekstm.github.io/sketches/sketch_210518d_curved_thorns/index.html) and [Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

@@ -1,26 +1,7 @@
-Sketches page
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Github page</title>
-
-</head>
-<body>
-  <h1>Hello!</h1>
-
-  <div>
-      <p><a href="https://lekstm.github.io/sketches/sketch_210518d_curved_thorns/index.html">curved thorns</a></p>
-  </div>
-</body>
-</html>
-
-
 ## Welcome to GitHub Pages
+
+[curved thorns](https://lekstm.github.io/sketches/sketch_210518d_curved_thorns/index.html) and [Image](src)
+
 
 You can use the [editor on GitHub](https://github.com/lekstm/sketches/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,6 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
